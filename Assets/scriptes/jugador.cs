@@ -19,7 +19,8 @@ public class jugador : MonoBehaviour {
 	}
     void elJugadorHaMuerto(Notification no)
     {
-        
+        //holaaaaaaaaaa
+        //dsadsadsadsadas
 
         if (vidas > 0 )
         {
